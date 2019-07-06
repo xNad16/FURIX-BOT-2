@@ -2,5 +2,3 @@ pip
 git+git://github.com/Rapptz/discord.py.git@async#egg=discord.py[voice]
 youtube_dl
 imgurpython
-python -m pip install -U Red-DiscordBot
-git+https://github.com/Cog-Creators/Red-DiscordBot@V3/develop#egg=Red-DiscordBot
